@@ -1,0 +1,8 @@
+body {
+    text-align: center;
+    font-size: larger;
+}
+canvas {
+    border:1px solid black;
+margin-bottom: 30;
+}
